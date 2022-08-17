@@ -1,0 +1,12 @@
+<!-- DATABASE MYSOL -->
+DATABASE_URL="mysql://root:ssMRhrc68xVReAJtIxF@localhost:3306/Groupomania"
+DB_HOST="'localhost"
+DB_DB="Groupomania"
+DB_USER="root"
+DB_PASSWORD="ssMRhrc68xVReAJtIxF"
+
+<!-- SERVER -->
+PORT=3000
+
+<!-- TOKEN -->
+TOKEN="'RANDOM TOKEN SECRET"
