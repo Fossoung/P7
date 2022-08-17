@@ -10,7 +10,7 @@ L'objectif est de construire un réseau social d'entreprise.
 
 
 **Frontend :**
-- Créer un fichier .env pour remplir les variables d'environnements:
+- Créer un fichier .env pour remplir les variables d'environnements suivantes:
   - CLIENT_URL=http://localhost:4200
   - PORT=4200
 
